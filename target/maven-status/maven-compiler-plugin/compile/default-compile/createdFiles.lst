@@ -1,0 +1,10 @@
+com/heleno/todolist/task/TaskModel.class
+com/heleno/todolist/errors/ExceptionHandlerController.class
+com/heleno/todolist/user/UserModel.class
+com/heleno/todolist/TodolistApplication.class
+com/heleno/todolist/task/ITaskRepository.class
+com/heleno/todolist/user/UserController.class
+com/heleno/todolist/utils/Utils.class
+com/heleno/todolist/filter/FilterTaskAuth.class
+com/heleno/todolist/user/IUserRepository.class
+com/heleno/todolist/task/TaskController.class
